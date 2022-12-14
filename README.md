@@ -1,2 +1,2 @@
 # Projects
-Patika.dev projeleri için hazırladığım projelerim.
+Patika.dev dersleri için hazırladığım projelerim.
