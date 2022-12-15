@@ -1,0 +1,26 @@
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+Root 7'dir.
+Root'tan büyük sayıları root'un sağ tarafına, küçük sayıları sol tarafına olacak şekilde yerleştireceğiz. 
+
+Root'un soluna ikinci sıradaki sayı olan 5'i ekliyoruz,
+1'i root'un soluna ve 5'in soluna ekliyoruz,
+8'i root'un sağına ekliyoruz,
+3'ü root'un soluna, 1'in sağına ekliyoruz,
+6'yı root'un soluna, 5'in sağına ekliyoruz,
+0'ı root'un soluna, 1'in soluna ekliyoruz,
+9'u root'un sağına, 8'in sağına ekliyoruz,
+4'ü root'un soluna, 3'ün sağına ekliyoruz,
+2'yi root'un soluna, 3'ün soluna ekliyoruz.
+
+Bu durumda aşağıdaki şekilde bir Binary-Search-Tree oluşturmuş olduk. 
+
+                7                                  
+               / \ 
+             5     8   
+           /  \     \
+         1     6     9 
+       /  \           
+     0     3            
+          / \
+        2    4         
