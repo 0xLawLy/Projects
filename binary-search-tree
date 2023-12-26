@@ -13,7 +13,7 @@ Root'un soluna ikinci sıradaki sayı olan 5'i ekliyoruz,
 4'ü root'un soluna, 3'ün sağına ekliyoruz,
 2'yi root'un soluna, 3'ün soluna ekliyoruz.
 
-Bu durumda aşağıdaki şekilde bir Binary-Search-Tree oluşturmuş olduk. 
+Bu durumda aşağıdaki şekilde bir Binary-Search-Tree oluşturmuş olduk. Evet.
 
                 7                                  
                / \ 
